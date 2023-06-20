@@ -2,11 +2,10 @@ To run the project follow:
 
 ```bash
 yarn install
-# then do
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000/Hi) with your browser to see the result.
+Open [http://localhost:3000/Hi](http://localhost:3000/Hi) with your browser to see the result.
 
 Create IAM User in AWS and give basic Transcribe permissions.
 
